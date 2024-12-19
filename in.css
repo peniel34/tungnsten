@@ -1,0 +1,35 @@
+form input{
+	background: none; width: 540px; border-radius: 9px; height: 40px;
+}
+
+form input{text-decoration: none; color: blue; padding-inline: 15px}
+form input:hover{background: none; border-color: red;}
+
+form input{
+	position: relative;
+	top: 30px;
+	left: 105px;
+
+}
+
+
+.in{
+	position: relative;
+	top: 20px;
+	right: 100px;
+}
+
+form button{
+	background: green; width: 100px; border-radius: 9px; border-color: white; height: 30px; box-shadow: 2px 2px 20px palegreen;
+}
+
+form button{text-decoration: none; color: white;}
+form button:hover{background: limegreen; border-color: white; box-shadow: 2px 2px 20px red}
+
+form button{
+	position: relative;
+	top: 30px;
+	right: 125px;
+	
+}
+
